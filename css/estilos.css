@@ -25,3 +25,13 @@ html{
 .container p{
     font-size: 2rem;
 }
+.button{
+    background-color: aquamarine;
+    color: black;
+    font-size: 3.5rem;
+    margin: 30px auto;
+}
+.button:hover{
+    background-color: #40bb51;
+    transition: .9s;
+}
