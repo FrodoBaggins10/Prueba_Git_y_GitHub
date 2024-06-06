@@ -35,3 +35,12 @@ html{
     background-color: #40bb51;
     transition: .9s;
 }
+h2{
+    width: 100%;
+    height: auto;
+    margin: 50px auto;
+    font-size: 2rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #eadade;
+    color: black;
+}
