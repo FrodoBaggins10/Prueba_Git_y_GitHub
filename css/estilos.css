@@ -28,10 +28,10 @@ body{
 .container p{
     font-size: 2rem;
 }
-.content{
+/* .content{
     width: 100vh;
-    height: 58vh;
-}
+    height: 40vh;
+} */
 .footer{
     margin: 20px 20px;
     font-size: 2rem;
