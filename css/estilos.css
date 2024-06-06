@@ -6,6 +6,9 @@
 html{
     font-size: 62.5%;
 }
+body{
+    align-content: space-between;
+}
 .container{
     display: flex;
     flex-wrap: wrap;
@@ -24,4 +27,24 @@ html{
 }
 .container p{
     font-size: 2rem;
+}
+.content{
+    width: 100vh;
+    height: 58vh;
+}
+.footer{
+    margin: 20px 20px;
+    font-size: 2rem;
+    border: 2px #ea1249 solid;
+    background-color: #69022d;
+    color: #ffffff;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+.footer-contact{
+    margin: 7px 30px;
+}
+.footer-made{
+    margin: 7px 30px;
 }
