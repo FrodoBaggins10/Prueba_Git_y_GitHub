@@ -1,13 +1,8 @@
-Me llamo Francisco j Moros v,
+Este es un repositorio
 
-tengo 31 años, y soy de Venezuela
+que fue creado para hacer pruebas
 
-me gustan los videojuegos
+hubo muchos cambios pero no logré grabarlos
 
-me gusta la Savita
+--
 
-es una gatita traviesa
-
-es una locura
-
-Aca he vuelto al segundo commit y he agregado mas info
