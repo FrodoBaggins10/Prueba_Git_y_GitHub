@@ -1,7 +1,7 @@
 #   Aprendizaje Git y GitHub 
 Sistema de control de versiones
 Linea de tiempo llevando un registro de los cambios
-:blue_heart:
+:tw-1f4dd:
 
 #### En el proyecto se aplican:
 
@@ -15,3 +15,4 @@ Linea de tiempo llevando un registro de los cambios
 >  Git me parece una herramienta increible para gestionar las versiones de mis proyectos
 En este repositorio integro HTML, CSS y JS de manera sencilla
 >- Fro 
+
